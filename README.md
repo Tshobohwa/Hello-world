@@ -1,31 +1,6 @@
 # Hello-world
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   
   <br/>
@@ -92,13 +67,6 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
  - Code Editor
  - Browser
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -106,40 +74,17 @@ Clone this repository to your desired folder:
  - cd my-folder
  - git clone "https://github.com/Tshobohwa/Hello-world.git" 
  - cd Hello-world
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
 Install this project with:
  - cd my-project
  - gem install
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
  - live server
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 
 
